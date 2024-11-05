@@ -12,7 +12,7 @@ In order to make the CodeSpace work, you should have a GitHub account: if you do
 
 Click the ![#05ab0b](https://placehold.co/15x15/05ab0b/05ab0b.png) `<> Code` button on the top right, selecting `Codespaces` and then `Create codespace on main`, as you can see in the animation here:
 
-![CodeSpaces opening](./imgs/codespaces_opening.gif)
+![CodeSpaces opening](./imgs/codespaces_opening.gif)(https://app.gitpod.io/projects)
 
 After a while, you should land to an environment that looks like this:
 
@@ -34,7 +34,7 @@ In order to run this space with GitPod, please make sure:
 
 Now you're all set and can use the following button to launch the service.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/lescai-teaching/environment-bsa-vscode)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)
 
 Just click on "Continue (ctrl + enter)" to go on with the workspace set up.
 
